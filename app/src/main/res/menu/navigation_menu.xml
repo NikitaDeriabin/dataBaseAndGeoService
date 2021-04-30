@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/region_query"
+        android:title="Вибірка"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/contacts_query"
+        android:title="Контакти"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/geoservice"
+        android:title="Геосервіс"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/about"
+        android:title="Про розробника"
+        app:showAsAction="never"/>
+
+</menu>

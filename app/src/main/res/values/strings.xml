@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LabMob2</string>
+    <string name="area_unit">км<sup>2</sup></string>
+    <string name="query_text">Показати області(з даними) з населенням до 1млн. чол.</string>
+    <string name="query_text2">Показати середню кількість населення</string>
+    <string name="contact_pattern">+380 97%</string>
+    <string name="api_key">AIzaSyBExIXg4hs1wNDOHnYqyrVnBntmQLeVv0Y</string>
+
+
+</resources>
